@@ -1,0 +1,123 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    box-sizing: border-box;
+  }
+  
+*/
+
+body {
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+    color: black;
+  }
+
+
+
+ul {
+    list-style-type: none;
+  }
+
+a {
+    text-decoration: none;
+    color: black;
+  }
+
+.main-text-logo-upper {
+    
+    font-family: Raleway, sans-serif;
+    line-height:30.52px;
+    font-size: 29px;
+    font-weight: 700;
+    
+}
+
+.header-link{
+    line-height:16.41px;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+
+a:hover {
+    color: #0075ff; /* Изменение цвета при наведении */
+  }
+
+
+section li {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+  }
+.main-section{
+    background-color:#2f303a ;
+}
+.main-text, .button-pay-main{
+    color: white;
+    text-align: center;
+}
+.main-text{
+    font-size: 44px;
+    font-weight: 900;
+    line-height: 60px;
+}
+
+.button-pay-main{
+    background-color: #2196f3;
+    width: 200px;
+    height: 50px;
+    border: none;
+    border-radius: 4px; 
+}
+
+.header-section-group{
+    font-family: Roboto, sans-serif;
+    font-weight: 700;
+    font-size:14px ;
+    line-height:16.41px;
+
+}
+.feature-group-description{
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    font-size: 14px ;
+    line-height: 24px;
+
+}
+
+.second-header-section{
+    font-family: Roboto, sans-serif;
+    font-weight: 700;
+    font-size: 36px ;
+    line-height: 42.19px;
+    text-align: center;
+}
+.second-section-description{
+    color: #757575;
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    font-size: 16px ;
+    line-height: 18.75px;
+    text-align: center;
+
+}
+.third-header-text{
+    color: #212121;
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    font-size: 16px ;
+    line-height: 18.75px;
+    text-align: center;
+}
+footer{
+    background-color: #2f303a;
+}
+.bottom-main-text-logo{
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 30.52px;
+    color: white;
+
+}
