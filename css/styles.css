@@ -125,3 +125,22 @@ footer{
     color: white;
 
 }
+a:hover{
+    color: hsl(199, 98%, 48%);
+}
+.number-header:hover {
+    fill: hsl(199, 98%, 48%);
+    
+  }
+
+.circle-icon {
+    fill: transparent;
+}
+.SNS-link:hover .circle-icon {
+    fill: #2196F3;
+  }
+  
+  .SNS-link:hover .twitter-icon {
+    fill: rgb(235, 235, 235);
+  }
+  
