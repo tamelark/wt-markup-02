@@ -136,11 +136,14 @@ a:hover{
 .circle-icon {
     fill: transparent;
 }
+.sns-icon{
+    fill:#AFB1B8;
+}
 .SNS-link:hover .circle-icon {
     fill: #2196F3;
   }
   
-  .SNS-link:hover .twitter-icon {
+  .SNS-link:hover .sns-icon {
     fill: rgb(235, 235, 235);
   }
   
